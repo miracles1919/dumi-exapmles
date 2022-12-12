@@ -1,0 +1,16 @@
+{
+  "name": "@examples/normal",
+  "scripts": {
+    "docs:build": "dumi build",
+    "start": "dumi dev",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "dumi": "^2.0.13",
+    "gh-pages": "^4.0.0",
+    "typescript": "~4.7.4"
+  }
+}
