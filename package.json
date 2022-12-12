@@ -1,5 +1,5 @@
 {
-  "name": "@examples/normal",
+  "name": "dumi-examples",
   "scripts": {
     "docs:build": "dumi build",
     "start": "dumi dev",
