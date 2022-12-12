@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdumi_examples=self.webpackChunkdumi_examples||[]).push([[433],{92960:function(t,e,u){u.r(e),u.d(e,{default:function(){return n}});var n=function(){return"Hello first external demo!"}}}]);
